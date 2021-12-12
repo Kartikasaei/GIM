@@ -226,8 +226,8 @@ int main()
 
 	timer();
 	header();
-	cout<< "\n\t\t\t\t\t[Y] Play Game";
-	cout<< "\n\t\t\t\t\t[N] Quit Game";
+	cout<< "\n\t\t\t\t\t[Y/y] Play Game";
+	cout<< "\n\t\t\t\t\t[N/n] Quit Game";
 	cout<< "\n\n\t\t\t\t\tChoose : "; cin >> choose;
 
 	
